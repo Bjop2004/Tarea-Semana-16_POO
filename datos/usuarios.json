@@ -2,6 +2,25 @@
     {
         "usuario": "admin",
         "contrasena": "1234",
-        "nombre": "Administrador"
+        "nombre": "Administrador General",
+        "rol": "Administrador"
+    },
+    {
+        "usuario": "empleado1",
+        "contrasena": "1234",
+        "nombre": "Carlos Mesero",
+        "rol": "Empleado"
+    },
+    {
+        "usuario": "cliente1",
+        "contrasena": "1234",
+        "nombre": "Juan Pérez",
+        "rol": "Cliente"
+    },
+    {
+        "usuario": "060504",
+        "contrasena": "2004",
+        "nombre": "Brandon Ortiz",
+        "rol": "Empleado"
     }
 ]

@@ -16,5 +16,11 @@
         "usuario": "admin",
         "producto_codigo": "P003",
         "fecha": "2026-09-27 22:12:52"
+    },
+    {
+        "id_venta": "V-0004",
+        "usuario": "admin",
+        "producto_codigo": "P003",
+        "fecha": "2026-10-03 11:33:03"
     }
 ]
